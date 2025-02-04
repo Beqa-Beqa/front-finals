@@ -1,0 +1,10 @@
+:root {
+    --text-primary: #041562;
+    --text-primary-inverse: #FFF;
+    --text-primary-fading: #51728E;
+    --border-primary: #2D93EA;
+    --accent-color: #FF5403;
+    --text-fading: #696969;
+    --base-transition-duration: .2s;
+    --overflow-background-color: #FFF;
+}
